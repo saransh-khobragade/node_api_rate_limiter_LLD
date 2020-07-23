@@ -1,0 +1,14 @@
+{
+  "name": "rate_limiter",
+  "version": "1.0.0",
+  "description": "node app for limiting request from client by client_id",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Saransh",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "4.2.0"
+  }
+}
